@@ -1,0 +1,8 @@
+beautifulsoup4 #web scraping tool
+requests #HTTP library
+wikipedia-api #Wikipedia API 
+lxml #XML and HTML processing library
+pandas #build dataframes, manipulate data, and export to CSV
+numpy #numerical computing required by pandas
+notebook #Jupyter notebook environment (locally)
+ipykernel #run Jupyter notebooks 
