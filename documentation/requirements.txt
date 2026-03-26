@@ -5,4 +5,8 @@ lxml #XML and HTML processing library
 pandas #build dataframes, manipulate data, and export to CSV
 numpy #numerical computing required by pandas
 notebook #Jupyter notebook environment (locally)
-ipykernel #run Jupyter notebooks 
+ipykernel #run Jupyter notebooks
+matplotlib #data visualization library
+seaborn #statistical data visualization library
+plotly.express #interactive data visualization library
+
